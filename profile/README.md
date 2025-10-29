@@ -39,5 +39,11 @@
 
 ---
 
+## 📺 Latest Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+---
+
 <p align="center">© 2025 The Advertising Network | AYS, LLC</p>
 <p align="center"><sub>ReadMe Created with ❤️ by Nicole (baby.x) on Discord</sub></p>
