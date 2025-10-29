@@ -31,8 +31,8 @@
 ---
 
 ## 💰 Support Us
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff)](https://shop.aysdiscord.com)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ayspremium)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=The-Advertising-Network&icon=4&color=1)](https://visitcount.itsvg.in)
