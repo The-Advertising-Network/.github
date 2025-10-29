@@ -37,11 +37,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=The-Advertising-Network&icon=4&color=1)](https://visitcount.itsvg.in)
 
----
-
-## 📺 Latest Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
 
 ---
 
